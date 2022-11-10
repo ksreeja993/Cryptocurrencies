@@ -10,3 +10,5 @@ Deliverable 1: Preprocessing the Data for  PCA
 Deliverable 2: Reducing Data Dimensions Using PCA
 Deliverable 3: Clustering Cryptocurrencies Using K-means
 Deliverable 4: Visualizing Cryptocurrencies Results
+![bokeh_plot](https://user-images.githubusercontent.com/105166481/200973964-2f6cdc9c-0f9f-4f23-a3d2-0621c7ca59bf.png)
+![bokeh_plot (1)](https://user-images.githubusercontent.com/105166481/200973968-0679f3ea-2da0-4d88-905e-81100bc3a03f.png)
